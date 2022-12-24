@@ -65,7 +65,7 @@ else
 		cd /tmp
 fi
 
-mkdir test
+mkcd fake-commit-history
 git init
 touch file.ini
 git add file.ini
